@@ -1,0 +1,55 @@
+#map {
+    height: 100%;
+    width: 100%;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+audio:focus {
+    outline: none;
+}
+
+#menu {
+    padding-top: 32px;
+    padding-left: 10px;
+ 
+}
+
+img {
+    max-width: 500px;
+}
+
+.gm-style-iw img {
+    display: block;
+    text-align: center;
+    max-width: 480px;
+    max-height: 480px;
+    width: auto;
+    height: auto;
+}
+
+#topHeading, #bottomHeading {
+    width: 50%;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: xx-large;
+    color:dodgerblue;
+    text-shadow: blanchedalmond 1px 1px 2px;
+}
+
+#headingContent {
+    color: dodgerblue;
+    font-size: 30px;
+    font-weight: bold;
+    position:relative;
+    bottom: 40px;
+    text-shadow: blanchedalmond 1px 1px 2px;
+
+}

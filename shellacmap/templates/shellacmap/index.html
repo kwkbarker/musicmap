@@ -1,0 +1,26 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MusicMap</title>
+    <link rel="stylesheet" href="{% static 'shellacmap/styles.css' %}">
+</head>
+
+<body>
+
+    
+    <script async
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBMJ1zvaSDnjvivgpTna8Z8c3RxIA3Pjo&callback=initMap">
+    </script>
+
+    <div id="topHeading"></div>
+    <div id="bottomHeading"></div>
+    
+    <div id="menu"></div>
+    <div id="map"></div>
+    <script src="{% static 'shellacmap/apps.js' %}"></script>
+
+</body>
