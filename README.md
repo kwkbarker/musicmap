@@ -6,6 +6,8 @@
 
 MusicMap is a web application using the Google Maps API to create an interactive and dynamic visualization of music collections by their geographic locations. 
 
+Hosted here: http://kwkbarker.pythonanywhere.com/
+
 MusicMap uses a Django backend and a JavaScript front end.
 
 As examples, I have populated the map with two collections: the first is "Live With Me On Earth: World Folk Rock," a compilation I curated of songs by artists from around the world during the late 1960s to early 1980s that fuse folk and rock music. I do not own the licenses to these recordings and they are used purely for educational purposes on this student project. Performers and publishers may contact the author at kwkbarker@gmail.com to remove any material they wish not to be included.
