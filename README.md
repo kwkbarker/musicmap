@@ -1,6 +1,5 @@
 # MusicMap
-## Final Project by Kevin Barker
-### CS50w
+## Created and written by Kevin Barker
 ### 4/20/2021
 
 ## Description
@@ -46,9 +45,9 @@ Possible upgrades and improvements include:
 - an audio player with a queue so that users can keep listening to a song as they browse other collections & collection items
 - a video player for video examples
 
-## Acknowlegement
+## Acknowlegements
 
-Thanks to Jonathan Ward for permission to use his Excavated Shellac posts. Please seek out his commercial releases Excavated Shellac, Opika Pende, Excavated Shellac: Strings, and Excavated Shellac: Reeds, available from Dust-to-Digital [https://dust-digital.com/].
+Thanks to Jonathan Ward for permission to use his Excavated Shellac posts. Please seek out his commercial releases 'Excavated Shellac', 'Opika Pende', 'Excavated Shellac: Strings', and 'Excavated Shellac: Reeds', available from Dust-to-Digital [https://dust-digital.com/].
 
 #### Contact
 
