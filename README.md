@@ -6,7 +6,7 @@
 
 MusicMap is a web application using the Google Maps API to create an interactive and dynamic visualization of music collections by their geographic locations. 
 
-Hosted here: http://kwkbarker.pythonanywhere.com/
+Hosted here: http://kwkbarker.pythonanywhere.com/ (no longer hosted)
 
 MusicMap uses a Django backend and a JavaScript front end.
 
